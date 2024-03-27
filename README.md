@@ -1,9 +1,9 @@
 # Steam Proton : Tools and Datas
 
-Vous trouverez ici des outils et astuces pour lancer les jeux Windows sous Linux, achetés sur Steam principalement, avec Proton uniquement.
+Vous trouverez ici des outils et astuces pour lancer les jeux Windows sous Linux, achetés sur Steam principalement, avec Proton uniquement ( https://github.com/ValveSoftware/Proton ).
 Valve développant le support Windows avec leur projet, je ne proposerai pas d'autres solutions afin de rester avec leurs outils uniquement.
 
-Proton est open-source pour information : https://github.com/ValveSoftware/Proton
+Tous les jeux testés seront lancés directement via le client Steam officiel.
 
 ## Informations sur le PC utilisé
 
