@@ -13,7 +13,9 @@ Tous les jeux testés seront lancés directement via le client Steam officiel.
 - OS : Lubuntu 22.04 64-bits
 - Manette utilisée : Manette PS5™ sans fil DualSense
 
-## Configuration Steam appliquée pour optimiser les ressources CPU/GPU/RAM
+## Configuration Steam
+
+Sur les images ci-dessous, vous trouverez les options à vérifier (indiquées en rouge ) pour obtenir une bonne optimision sur les ressources matérielles du PC ( CPU, GPU et RAM ) et un meilleur confort pour l'utilisation de l'interface utilisateur.
 
 ![alt text](https://raw.githubusercontent.com/JackoboUsagi/Steam-Proton-Tools-and-Datas/main/steam-1.jpg)
 ![alt text](https://raw.githubusercontent.com/JackoboUsagi/Steam-Proton-Tools-and-Datas/main/steam-2.jpg)
