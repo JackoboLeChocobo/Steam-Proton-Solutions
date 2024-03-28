@@ -11,5 +11,4 @@ Tous les jeux testés seront lancés directement via le client Steam officiel.
 - GPU : NVIDIA GeForce GTX 1650 ( Driver 545.29.06 - 4096 MB Memory - 896 CUDA Cores )
 - RAM : 16 GB DDR4
 - OS : Lubuntu 22.04 64-bits
-- Manette utilisé : Manette PS5™ sans fil DualSense
-
+- Manette utilisée : Manette PS5™ sans fil DualSense
