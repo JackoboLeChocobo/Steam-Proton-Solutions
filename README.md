@@ -12,3 +12,9 @@ Tous les jeux testés seront lancés directement via le client Steam officiel.
 - RAM : 16 GB DDR4
 - OS : Lubuntu 22.04 64-bits
 - Manette utilisée : Manette PS5™ sans fil DualSense
+
+## Configuration Steam appliquée pour optimiser les ressources CPU/GPU/RAM
+
+![alt text](https://raw.githubusercontent.com/JackoboUsagi/Steam-Proton-Tools-and-Datas/main/steam-1.jpg)
+![alt text](https://raw.githubusercontent.com/JackoboUsagi/Steam-Proton-Tools-and-Datas/main/steam-2.jpg)
+![alt text](https://raw.githubusercontent.com/JackoboUsagi/Steam-Proton-Tools-and-Datas/main/steam-3.jpg)
