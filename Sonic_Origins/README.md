@@ -18,4 +18,13 @@
 
 ## Captures d'écran
 
-A venir...
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/AkinaUsagiAi/Steam-Proton-Outils-Astuces/main/Sonic_Origins/capture-1.jpg" />/td>
+    <td><img src="https://raw.githubusercontent.com/AkinaUsagiAi/Steam-Proton-Outils-Astuces/main/Sonic_Origins/capture-2.jpg" />/td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/AkinaUsagiAi/Steam-Proton-Outils-Astuces/main/Sonic_Origins/capture-3.jpg" />/td>
+    <td><img src="https://raw.githubusercontent.com/AkinaUsagiAi/Steam-Proton-Outils-Astuces/main/Sonic_Origins/capture-4.jpg" />/td>
+  </tr>
+</table>
