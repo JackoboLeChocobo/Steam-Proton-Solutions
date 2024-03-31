@@ -3,8 +3,7 @@
 ## A propos du jeu
 
 - Page Steam du jeu : https://store.steampowered.com/app/1794960/
-- Extensions testés :
-  - Sonic Origins - Plus Expansion Pack ( https://store.steampowered.com/app/2343200/Sonic_Origins__Plus_Expansion_Pack/ )
+- Extensions testés : Sonic Origins - Plus Expansion Pack
 - Date de sortie : 23 juin 2022
 
 ## Notes
