@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/JackoboUsagi/Steam-Proton-Tools-and-Datas/main/banner.jpg)
+![alt text](https://raw.githubusercontent.com/AkinaUsagiAi/Steam-Proton-Tools-and-Datas/main/banner.jpg)
 
 Vous trouverez ici des outils et astuces pour lancer les jeux natives Linux et les jeux Windows sous Linux, achetés sur Steam principalement, avec Proton uniquement ( https://github.com/ValveSoftware/Proton ).
 Valve développant le support Windows avec leur projet, je ne proposerai pas d'autres solutions afin de rester avec leurs outils uniquement.
@@ -17,6 +17,6 @@ Tous les jeux testés seront lancés directement via le client Steam officiel.
 
 Sur les images ci-dessous, vous trouverez les options à vérifier (indiquées en rouge ) pour obtenir une bonne optimision sur les ressources matérielles du PC ( CPU, GPU et RAM ) et un meilleur confort pour l'utilisation de l'interface utilisateur.
 
-![alt text](https://raw.githubusercontent.com/JackoboUsagi/Steam-Proton-Tools-and-Datas/main/steam-1.jpg)
-![alt text](https://raw.githubusercontent.com/JackoboUsagi/Steam-Proton-Tools-and-Datas/main/steam-2.jpg)
-![alt text](https://raw.githubusercontent.com/JackoboUsagi/Steam-Proton-Tools-and-Datas/main/steam-3.jpg)
+![alt text](https://raw.githubusercontent.com/AkinaUsagiAi/Steam-Proton-Tools-and-Datas/main/steam-1.jpg)
+![alt text](https://raw.githubusercontent.com/AkinaUsagiAi/Steam-Proton-Tools-and-Datas/main/steam-2.jpg)
+![alt text](https://raw.githubusercontent.com/AkinaUsagiAi/Steam-Proton-Tools-and-Datas/main/steam-3.jpg)
