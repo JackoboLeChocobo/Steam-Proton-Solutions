@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/AkinaUsagiAi/Steam-Proton-Outils-Astuces/main/Sonic_Origins/capture-1.jpg" />/<td>
+    <td><img src="https://raw.githubusercontent.com/AkinaUsagiAi/Steam-Proton-Outils-Astuces/main/Sonic_Origins/capture-1.jpg" /></td>
     <td><img src="https://raw.githubusercontent.com/AkinaUsagiAi/Steam-Proton-Outils-Astuces/main/Sonic_Origins/capture-2.jpg" /></td>
   </tr>
   <tr>
