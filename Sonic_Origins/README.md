@@ -1,4 +1,4 @@
-
+![alt text](https://raw.githubusercontent.com/AkinaUsagiAi/Steam-Proton-Tools-and-Datas/main/Sonic_Origins/banniere.jpg)
 
 - Lien d'achat du jeu : https://store.steampowered.com/app/1794960/
 
