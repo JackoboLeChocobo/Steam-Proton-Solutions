@@ -9,7 +9,7 @@
 ## Notes
 
 - Configuration Steam
-  - Utilisation de Proton Version Expérimental
+  - Utilisation de la version Windows du jeu avec Proton version Expérimental
   - Support de la manette PS5 avec l'activation du mode "Steam Input".
 
 - Gameplay
