@@ -2,7 +2,7 @@
 
 ## A propos du jeu
 
-- Page Steam du jeu : https://store.steampowered.com/app/202530
+- Page Steam du jeu : https://store.steampowered.com/app/203650
 - Extensions testées : Episode Metal Sonic
 - Date de sortie : 15 mai 2012
 
