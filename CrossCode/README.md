@@ -11,7 +11,8 @@
 - Configuration Steam
   - Utilisation de la version Linux du jeu
   - Support de la manette PS5
-  - Utilisation du projet pour avoir une traduction FR complète du jeu : https://github.com/L-Sherry/French-CC/releases/tag/v1.5.0
+  - Ajouter " -use-angle=vulkan " dans les Options de Lancement pour éviter un bug d'affichage pour le mode Plein Ecran
+  - Utilisation du projet suivant pour avoir une traduction FR complète du jeu : https://github.com/L-Sherry/French-CC/releases/tag/v1.5.0
 
 - Gameplay
   - Aucun souci lors de l'utilisation du jeu. Pas de ralentissement, manette utilisable sans souci.
