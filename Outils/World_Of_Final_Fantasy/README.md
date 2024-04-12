@@ -9,7 +9,7 @@ dxgi.syncInterval = valeur
 ```
 
 ### Exemple
-- L'écran est configuré sur une résolution de 1920x1080 avec une fréquence de 60Hz
+- L'écran est configuré sur une résolution de 1920x1080 avec une fréquence de **60**Hz
 - La valeur est donc de 60 / 30 = 2
 
 Le contenu du fichier "dxvk.conf" contiendra les informations suivantes :
