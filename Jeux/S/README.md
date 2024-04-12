@@ -1,17 +1,17 @@
 # Jeux testés
 
-| Nom du jeu    | Fonctionnel ? | Version | Steam Input nécessaire ? | Notes |
-|     :---:     |     :---:     |  :---:  |          :---:           | :---: |
-| Savant - Ascent REMIX | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Non&color=red) | - |
-| SEGA Mega Drive and Genesis Classics | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
-| Shovel Knight Pocket Dungeon | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Non&color=red) | - |
-| Shovel Knight: Treasure Trove | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Linux | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
-| Sonic Adventure 2 | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
-| Sonic Adventure DX | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
-| Sonic Lost World | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
-| Sonic Mania | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
-| Sonic Origins | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
-| Sonic the Hedgehog 4 - Episode I | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | [Lire](https://github.com/AkinaUsagiAi/Steam-Proton-Solutions/tree/main/Outils/Sonic_4_Episode_1) |
-| Sonic the Hedgehog 4 - Episode II | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
-| Stardew Valley | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Linux | ![](https://img.shields.io/static/v1?label=&message=Non&color=red) | - |
-| Streets of Rage 4 | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Linux | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
+| Nom du jeu    | Public | Fonctionnel ? | Version | Steam Input nécessaire ? | Notes |
+|     :---:     | :---:  |     :---:     |  :---:  |          :---:           | :---: |
+| Savant - Ascent REMIX | ![](https://img.shields.io/static/v1?label=&message=PEGI_12&color=orange) | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Non&color=red) | - |
+| SEGA Mega Drive and Genesis Classics | ![](https://img.shields.io/static/v1?label=&message=PEGI_12&color=orange) | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
+| Shovel Knight Pocket Dungeon | ![](https://img.shields.io/static/v1?label=&message=PEGI_03&color=green) | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Non&color=red) | - |
+| Shovel Knight: Treasure Trove | ![](https://img.shields.io/static/v1?label=&message=PEGI_07&color=green) | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Linux | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
+| Sonic Adventure 2 | ![](https://img.shields.io/static/v1?label=&message=PEGI_07&color=green) | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
+| Sonic Adventure DX | ![](https://img.shields.io/static/v1?label=&message=PEGI_03&color=green) | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
+| Sonic Lost World | ![](https://img.shields.io/static/v1?label=&message=PEGI_07&color=green) | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
+| Sonic Mania | ![](https://img.shields.io/static/v1?label=&message=PEGI_03&color=green) | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
+| Sonic Origins | ![](https://img.shields.io/static/v1?label=&message=PEGI_03&color=green) | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
+| Sonic the Hedgehog 4 - Episode I | ![](https://img.shields.io/static/v1?label=&message=PEGI_03&color=green) | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | [Lire](https://github.com/AkinaUsagiAi/Steam-Proton-Solutions/tree/main/Outils/Sonic_4_Episode_1) |
+| Sonic the Hedgehog 4 - Episode II | ![](https://img.shields.io/static/v1?label=&message=PEGI_03&color=green) | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Proton Expérimental | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
+| Stardew Valley | ![](https://img.shields.io/static/v1?label=&message=PEGI_12&color=orange) | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Linux | ![](https://img.shields.io/static/v1?label=&message=Non&color=red) | - |
+| Streets of Rage 4 | ![](https://img.shields.io/static/v1?label=&message=PEGI_12&color=orange) | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | Linux | ![](https://img.shields.io/static/v1?label=&message=Oui&color=green) | - |
