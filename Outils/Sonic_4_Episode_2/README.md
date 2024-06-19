@@ -6,4 +6,6 @@ Il est donc nécessaire de configurer votre écran sur une résolution dont sa f
 ### A vérifier
 
 Si le jeu utilise un taux d'images supérieur à 60 images par seconde, ajouter en commande personnalisé la ligne suivante :
+```
 DXVK_FRAME_RATE=60 %command%
+```
