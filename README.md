@@ -10,7 +10,7 @@ Tous les jeux testés dans cette liste seront lancés directement via le client 
 - CPU : Intel i5-10400F ( 6 coeurs / 12 threads - 2.90 GHz Base / 4.30 GHz Turbo max )
 - GPU : NVIDIA GeForce GTX 1650 ( Driver 545.29.06 - 4096 MB Memory - 896 CUDA Cores )
 - RAM : 16 GB DDR4
-- OS : Debian 12 64-bits
+- OS : Debian 12 64-bits / Fenikkusu
 - Manette utilisée : Manette PS5™ sans fil DualSense
 
 ## Configuration Steam
